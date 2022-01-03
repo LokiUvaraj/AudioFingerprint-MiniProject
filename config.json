@@ -1,0 +1,11 @@
+{
+    "env": "default",
+    "db.dsn" : null,
+    "db.database" : null,
+    "db.file" : "audiofingerprint.db",
+
+    "channels" : "2",
+    "mic.visualise_console": true,
+    "mic.visualise_plot": false,
+    "fingerprint.show_plots": false
+}
